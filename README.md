@@ -1,6 +1,6 @@
-# `template-react`
+# Making typesafe APIs easy with tRPC (Chris Bautista)
 
-Template for React repositories
+- https://www.youtube.com/watch?v=2LYM8gf184U
 
 ## Getting started
 
