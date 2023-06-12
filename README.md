@@ -1,6 +1,6 @@
-# Making typesafe APIs easy with tRPC (Chris Bautista)
+# Learn tRPC in 45 minutes (Web Dev Simplified)
 
-- https://www.youtube.com/watch?v=2LYM8gf184U
+- https://www.youtube.com/watch?v=UfUbBWIFdJs
 
 ## Getting started
 
